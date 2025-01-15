@@ -1,0 +1,1 @@
+wget --header="Authorization: Bearer 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" download_url

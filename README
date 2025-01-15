@@ -1,0 +1,12 @@
+1. Install conda on your machine
+2. Create a conda environment using following command:
+    conda create -n circusaibackendv2 python=3.9.19
+                        or
+    conda create -n circusaibackendv2 python=3.9
+3. Activate conda environment using following command:
+    conda activate circusaibackend
+4. 'cd' inside 'backend' folder
+5. Run:
+    pip install -r requirements.txt
+6. To run the backend server 'cd' inside 'backend/django_app/' and run the following:
+    python manage.py runserver
